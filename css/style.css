@@ -15,15 +15,13 @@ p {
   line-height: 2rem;
 }
 
+.button-collapse {
+  color: #26a69a;
+}
+
 .mimg img{
   border-radius: 15px;
   border: 4px white solid;
-}
-
-}
-
-.button-collapse {
-  color: #26a69a;
 }
 
 .parallax-container {
